@@ -1,0 +1,32 @@
+body {
+    background-image: linear-gradient(to right top, #5b58ec, #3427df, #3024d8, #262ea8, #0d0f99);
+
+}
+
+h2 {
+    font-family: 'Stint Ultra Condensed';
+    letter-spacing: 2;
+    background-color: azure;
+    width: 500;
+    border-radius: 20px;
+}
+
+p {
+    font-family: 'Abel';
+    color: ivory;
+}
+
+i {
+    font-family: 'Crimson Text';
+    color: rgb(234, 223, 255);
+    font-size: 20px;
+}
+
+html,
+body {
+    height: 100%;
+    margin: 0;
+}
+hr {
+    width:600px;
+}
